@@ -1,13 +1,14 @@
-**MONAI Research Contributions** is a platform built to showcase cutting-edge research utilizing MONAI. This enables the community to see MONAI “in action” and  researchers to gain visibility for their MONAI-based work. The repository is regularly reviewed and selected contributions that have demonstrated their popularity or relevance can be integrated into MONAI components in a second step. Contributions are welcome! Simply follow the contribution guidelines stated below and file a pull request.
+**MONAI 연구 기여** 는 MONAI를 활용한 첨단 연구를 선보이기 위해 만들어진 플랫폼이다. 이를 통해 커뮤니티는 MONAI가 "실제 실행 중"임을 확인할 수 있으며, 연구자들은 MONAI 기반 작업에 대한 가시성을 확보할 수 있습니다. 저장소는 정기적으로 검토되고 인기나 관련성이 입증되어 선택된 기여는 두 번째 단계에서 MONAI 구성요소로 통합될 수 있다. 기여를 환영합니다! 아래에 명시된 기여 지침을 따르고 pull request를 제출하기만 하면 됩니다.
 
-**Contribution Guidelines:**
+**기여 지침 :**
 
-1. Contributions are required to be published and have successfully undergone peer-review (If the contributing person is not the author of the work, no approval from the authors of the paper is required, but the contribution needs to be clearly labeled as a “Third-party contribution”). 
+1. 기여는 게재되어야 하며, 동료 평가를 성공적으로 거쳐야 됩니다.(기여자가 저자가 아닌 경우 논문 저자의 승인이 필요하지 않지만, 기고문에 "제3자 기여"이라는 라벨을 붙여야 한다).
 
-2. The implementation is required to feature MONAI components to a substantial extent. 
- 
-3. The implementation is required to include a boilerplate shell script (to be published) allowing code-reviewers to execute the code and reproduce the paper’s results with one click.
+2. 구현은 MONAI 구성 요소를 상당 부분 갖추어야 합니다.
 
-4. Under the hood, code quality does not have to match standards of the MONAI main repository, as the Research Contribution repository aims at a fast track for code change proposals and demonstrating cutting-edge research ideas. 
+3. 구현에는 코드 검토자가 코드를 실행하고 클릭 한 번으로 논문 결과를 재현할 수 있도록 표준 셸 스크립트를(게시 될) 포함해야 합니다.
 
-5. New contributions will be given a MONAI version tag (visible in the associated Readme) according to the utilized version of MONAI. This avoids the need to maintain compatibility of contributions for following MONAI releases.
+4. 연구 기여 저장소는 코드 변경 제안 및 최첨단 연구 아이디어의 입증에 대한 신속한 추적을 목표로 하기 때문에 코드 품질이 MONAI 메인 저장소의 기준에 부합할 필요가 없습니다.
+
+5. 새로운 기여는 사용된 MONAI 버전에 따라 (관련된 Readme에서 볼 수 있는) MONAI 버전 태그가 부여됩니다. 이렇게 하면 다음 MONAI 릴리스에 대한 기여도의 호환성을 유지할 필요가 없습니다.
+
