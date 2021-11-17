@@ -1,33 +1,33 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+이름: 버그 보고서
+about: 개선에 도움이 되는 보고서 작성
+제목: ''
+레이블: ''
+담당자: '’
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**버그 설명**
+버그에 대한 명확하고 간결한 설명.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Install '....'
-3. Run commands '....'
+**재현하기 위해**
+동작을 재현하는 단계:
+1. '...'로 이동
+2. '....' 설치
+3. '....' 명령어 실행
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**예상되는 동작**
+예상했던 일에 대한 명확하고 간결한 설명.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**스크린샷**
+해당하는 경우 문제를 설명하는 데 도움이 되는 스크린샷을 추가하세요.
 
-**Environment (please complete the following information):**
- - OS
- - Python version
- - MONAI version [e.g. git commit hash]
- - CUDA/cuDNN version
- - GPU models and configuration
+**환경(다음 정보를 기입해 주십시오):**
+  - OS
+  - 파이썬 버전
+  - MONAI 버전 [예. 자식 커밋 해시]
+  - CUDA/cuDNN 버전
+  - GPU 모델 및 구성
 
-**Additional context**
-Add any other context about the problem here.
+**추가 컨텍스트**
+여기에 문제에 대한 다른 컨텍스트를 추가하십시오.
